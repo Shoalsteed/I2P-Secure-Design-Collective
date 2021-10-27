@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to The I2P Usability Lab
 
-You can use the [editor on GitHub](https://github.com/Shoalsteed/I2P-Usability-Lab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Help us onboard the future of the Invisible Internet!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

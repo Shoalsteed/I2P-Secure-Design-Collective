@@ -17,5 +17,5 @@ We are working towards areas of improvements in the following areas as outlined 
 
 **Governance** Technologies need to define governance models to align value and build a sustainable culture for long-term project value and stability.
 
-In 2021 we are creating new onboarding for new I2P users, developers, and reaserchers. We have conducted user resaerch and began creating improved IA 
+In 2022 we are creating new onboarding for new I2P users, developers, and reaserchers. We have conducted user resaerch and began creating improved IA 
 for the I2P Project website. Our work in progress happens in the UX repository. 

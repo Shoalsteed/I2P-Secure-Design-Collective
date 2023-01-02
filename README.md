@@ -17,4 +17,5 @@ We are working towards areas of improvements in the following areas as outlined 
 
 **Governance** Technologies need to define governance models to align value and build a sustainable culture for long-term project value and stability.
 
-In 2022 we are focusing on outreach to the I2P community,  privacy community, and digital security trainers. This will inform directions for improving resources, improving adoption, and finding solutions for issues around sustainabulity and infrastructure. 
+In 2023 we are focusing on outreach to the overlay network, privacy community, and digital security trainers. This will inform directions for improving resources, improving adoption, and finding solutions for issues around sustainabulity and infrastructure. We will also be focusing efforts on resources for I2P ambassadors.
+

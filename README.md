@@ -25,5 +25,7 @@ In 2023 we are focusing on outreach to the overlay network, privacy community, a
 
 Attribution-ShareAlike
 CC BY-SA
+
 https://creativecommons.org/licenses/by-sa/4.0/
+
 https://creativecommons.org/licenses/by-sa/4.0/legalcode

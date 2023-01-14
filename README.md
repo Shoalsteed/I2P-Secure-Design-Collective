@@ -1,7 +1,7 @@
-# I2P-Usability-Lab
+# I2P-Secure-Design-Collective
 Help us onboard the future of the Invisible Internet!
 
-We are working towards areas of improvements in the following areas as outlined in Decentralization Off The Shelf: 7 Maxims:(https://decentpatterns.xyz/report/)
+We are working improvements in the following areas as outlined in Decentralization Off The Shelf: 7 Maxims:(https://decentpatterns.xyz/report/)
 
 **Collaboration** 
 

@@ -1,5 +1,6 @@
 # I2P-Secure-Design-Collective
 Help us onboard the future of the Invisible Internet!
+Plain language approach to documentaion, and providing end user security through knowledge and best design practices. 
 
 We are working improvements in the following areas as outlined in Decentralization Off The Shelf: 7 Maxims:(https://decentpatterns.xyz/report/)
 

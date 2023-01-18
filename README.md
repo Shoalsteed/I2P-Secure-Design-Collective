@@ -3,6 +3,7 @@ Help us onboard the future of the Invisible Internet!
 Plain language approach to documentaion, and providing end user security through knowledge and best design practices. 
 
 We are working on improvements in the following areas:
+
 **Localization**
 
 **Collaboration** 
@@ -21,7 +22,7 @@ We are working on improvements in the following areas:
 
 **Governance** 
 
-In 2023 we are focusing on outreach to the overlay network, privacy community, and digital security trainers. This will inform directions for improving resources, improving adoption, and finding solutions for issues around sustainabulity and infrastructure. We will also be focusing efforts on resources for I2P ambassadors.
+In 2023 we are focusing on outreach to the overlay network, privacy community, and digital security trainers. This will inform directions for improving resources, improving adoption, and finding solutions for issues around sustainabulity and infrastructure. We will also be focusing efforts on resources for I2P ambassadors. Blog component: https://theoverlay.ghost.io/
 
 Attribution-ShareAlike
 CC BY-SA

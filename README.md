@@ -1,6 +1,6 @@
 # I2P-Secure-Design-Collective
 Help us onboard the future of the Invisible Internet!
-Plain language approach to documentaion, and providing end user security through knowledge and best design practices. 
+Plain language approach to documentaion, and providing end user security through knowledge and best design practices. This project is the result of research and support from the OTF and Internews. 
 
 We are working on improvements in the following areas:
 
